@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = MainActivity.class.getSimpleName();
 
-    private final static String API_KEY = "bad02322d1a0e2b383e6cfd876ba5e1d";
+    private final static String API_KEY = "YOUR_API_KEY_HERE";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
